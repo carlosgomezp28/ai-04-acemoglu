@@ -90,6 +90,9 @@ AI can also eliminate the high-knowledge basin. Static gains therefore do
 I checked the repository's designated NBER PDF and reconstructed the static objective, FOC,
 Observation 1, and its boundary conditions. [`extensions.md`](extensions.md)
 develops **our proposed extension—not a result of the paper**—that allows
-\(\Delta_I>0\). The matching FOC and boundary derivation is the item to document
-by hand in `hand/`. The planned Lean check targets one-dimensional existence,
-uniqueness, and comparative statics.
+\(\Delta_I>0\); its FOC and boundary derivation belong in `hand/`.
+[`lean/Main.lean`](lean/Main.lean) contains a compiled Mathlib verification of
+the algebraic sign implications behind Observation 1 and the algebraic boundary
+and public-knowledge implications of our proposed extension. It does **not**
+formalize the Gaussian derivations, optimization problem, equilibrium, or full
+dynamic model.
