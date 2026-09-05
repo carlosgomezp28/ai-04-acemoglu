@@ -1,14 +1,16 @@
-# The paper
+# Paper
 
-Not committed — it is a third-party PDF and the repository should stay light.
+Primary source used for Repository 4:
 
-**Aouad, A., Lykouris, T., & Zhong, H. (2026).** *Human-AI Productivity Paradoxes:
-Modeling the Interplay of Skill, Effort, and AI Assistance.*
+**Acemoglu, D., Kong, D., & Ozdaglar, A. (2026).**
+*AI, Human Cognition and Knowledge Collapse.*
 
-- https://arxiv.org/abs/2605.11350
-- Direct PDF: https://arxiv.org/pdf/2605.11350
+NBER Working Paper No. 34910, February 2026.
 
-```bash
-curl -L -o paper/aouad-lykouris-zhong-2026-productivity-paradoxes.pdf \
-  https://arxiv.org/pdf/2605.11350
-```
+The repository contains the 69-page PDF used for the analysis:
+
+`07-acemoglu-kong-ozdaglar-2026-knowledge-collapse.pdf`
+
+Repository work prioritizes the static agent problem, Observation 1, the welfare
+mechanism, and the maintained production-side assumption discussed in the
+reading notes.
