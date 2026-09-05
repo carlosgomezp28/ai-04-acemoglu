@@ -14,11 +14,9 @@
   <a href="prompts.md"><kbd>CODEX RAW TRANSCRIPT</kbd></a>
 </p>
 
-<p align="center"><strong>Paper reconstruction ✓ · Proposed extension ✓ · Hand derivation ✓ · Lean verification ✓ · Presentation ✓</strong></p>
-
 ---
 
-# AI, Human Cognition and Knowledge Collapse — reading note
+## Paper reconstruction
 
 **Source used.** Daron Acemoglu, Dingwen Kong, and Asuman Ozdaglar,
 *AI, Human Cognition and Knowledge Collapse*, NBER Working Paper No. 34910,
